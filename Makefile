@@ -1,5 +1,5 @@
 #******************************************************************************
-# Copyright (C) MD IFTHAKHAR MAHMUD
+# Copyright (C) SANSKRITI DHAWAN
 #
 # Redistribution, modification or use of this software in source or binary
 # forms is permitted as long as the files maintain this copyright. Users are 
